@@ -4,8 +4,8 @@ An IT Graduate (2025) from UIN Syarif Hidayatullah Jakarta. I am a passionate so
 
 ### 🚀 About Me
 - 🎓 **Education:** Information Technology, UIN Syarif Hidayatullah Jakarta (Class of 2025).
-- 🔭 **Focus:** Currently honing my skills in [Mobile Development & Secuirty].
-- 🌱 **Learning:** Diving deeper into [Flutter & Kali linux].
+- 🔭 **Focus:** Currently honing my skills in [Website Developer & Secuirty].
+- 🌱 **Learning:** Diving deeper into [Javascript, HTML, CSS, Spring & Kali linux].
 - 💬 **Ask me about:** Java, Python, or anything related to IT Fundamentals.
 - ⚡ **Fun Fact:** I enjoy [solving logic puzzles and playing game].
 
