@@ -15,10 +15,6 @@ An IT Graduate (2025) from UIN Syarif Hidayatullah Jakarta. I am a passionate so
 - **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiairfanm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiairfanm&layout=compact&theme=radical)
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/dhiairfan](https://www.linkedin.com/in/dhia-irfan-muhammad-974753195/)
 - **Email:** [dhiairfanm@gmail.com](mailto:dhiairfanm@gmail.com)
